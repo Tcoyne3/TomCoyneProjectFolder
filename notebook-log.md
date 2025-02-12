@@ -1,0 +1,1 @@
+Amino acid sequence data for 14 species of the Arachnid order Opiliones (harvestmen), along with amino acid sequence data for other Arachnid orders to investigate the evolutionary relationships between Opiliones species and the relationship of Opiliones to other arachnid orders. 
